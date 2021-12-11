@@ -1,12 +1,14 @@
-/*
-* The "Statistics" program it gives the mean medium and mode of an file.
-*
-* @author  Felipe Garcia Affonso
-* @version 1.0
-* @since   2021-11-26
-*/
+//
+//  Mean.swift
+//
+//  Created by Ahmad El-khawaldeh
+//  Created on 2020-01-01
+//  Version 1.0
+//  Copyright (c) 2020 MTHS. All rights reserved.
+//
+//  The "Statistics" program it gives the mean and the medain 
+//
 
-// Swift "Statistics" Program
 import Foundation
 
 func mean(arrayOfIntegers: [Int]) throws -> Double {
